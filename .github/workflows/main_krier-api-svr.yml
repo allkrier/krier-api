@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'krier-api-svr'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DEAF2DC5587461F9D9A6C1DEAD5616D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD004634161C4BDCACCB2B6FBA0EAD3F }}
